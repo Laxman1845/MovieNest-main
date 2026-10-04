@@ -13,7 +13,7 @@ body {
 
 ::-webkit-scrollbar {
   width: 6px;
-  height: 6px;
+  height: 10px;
 }
 
 ::-webkit-scrollbar-track {
@@ -26,7 +26,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #334155;
+  background: blue;
 }
 
 /* Cinematic Glow & Gradients */
